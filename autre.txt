@@ -1,1 +1,2 @@
 Fichier de qualité
+Version 2
