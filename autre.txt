@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Fichier de qualité
 Version 2
+=======
+Fichier de qualitï¿½
+Version 2
+>>>>>>> 662bdc5a696111992adb3ce4696af3af0a06942e
